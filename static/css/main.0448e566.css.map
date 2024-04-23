@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0448e566.css","mappings":"AAAA,UAEC,wBAAyB,CADzB,UAAY,CAEZ,YACD","sources":["components/styles/cart.css"],"sourcesContent":[".lmj-cart {\n\tcolor: white;\n\tbackground-color: #31b572;\n\tpadding: 32px;\n}"],"names":[],"sourceRoot":""}
